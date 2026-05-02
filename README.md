@@ -36,6 +36,8 @@ modifier ses informations (login + mot de passe)
 <img width="718" height="287" alt="Modification_Login" src="https://github.com/user-attachments/assets/57b2e3ef-0399-4f7a-ade7-c045d16c30de" />
 
 
+
+
 <img width="507" height="67" alt="Change_Information" src="https://github.com/user-attachments/assets/831370ba-e01b-47a4-ba7c-6a2bd08afa03" />
 
 🏠 Interface principale (Accueil)
